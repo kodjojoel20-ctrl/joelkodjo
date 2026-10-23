@@ -1,4 +1,4 @@
-## Hi there, I'm Joël Kodjo 👋
+## Bonjour, je m'appelle Joël Kodjo 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -14,11 +14,9 @@
 </p>
 
 ## 🚀 A Propos de Moi
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+Je suis [Economiste | analyste de données] et j'aide les entreprises à tirer profit de leurs données. J'aime transformer des ensembles de données complexes et désordonnés en récits clairs et en informations exploitables.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
-
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+Je me concentre sur la création de tableaux de bord utilisés, l'automatisation des tâches répétitives pour libérer les équipes et leur permettre de se consacrer à des problèmes plus intéressants, et la création de modèles qui aident les entreprises à planifier l'avenir.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
@@ -49,7 +47,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 
 #### Programmation et automatisation
 <p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/[-----]-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
