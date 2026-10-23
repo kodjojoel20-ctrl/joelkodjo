@@ -19,7 +19,7 @@ Je suis [Economiste | analyste de données] et j'aide les entreprises à tirer p
 Je me concentre sur la création de tableaux de bord utilisés, l'automatisation des tâches répétitives pour libérer les équipes et leur permettre de se consacrer à des problèmes plus intéressants, et la création de modèles qui aident les entreprises à planifier l'avenir.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Découvrez mon portfolio complet sur mon site web](https://your-username.github.io/)
       
 ## 🔭 Ce sur quoi je travaille actuellement 
 
@@ -27,7 +27,7 @@ Je me concentre sur la création de tableaux de bord utilisés, l'automatisation
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
 - **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
 
-## 🌱 Découvrez mon portfolio complet sur mon site web
+## 🌱 Apprentissage en cours
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
 - [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
