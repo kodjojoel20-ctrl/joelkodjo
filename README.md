@@ -1,4 +1,4 @@
-## Bonjour, je m'appelle Joël Kodjo 👋
+## Salut, je m'appelle Joël Kodjo 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -42,7 +42,7 @@ Je me concentre sur la création de tableaux de bord utilisés, l'automatisation
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
   <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
   <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
+  <img src="https://img.shields.io/badge/Stata-Intermediate-E97627?style=flat&logo=Stata&logoColor=white" alt="Stata Skill Badge">
 </p>
 
 #### Programmation et automatisation
