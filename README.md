@@ -47,7 +47,7 @@ Je me concentre sur la création de tableaux de bord utilisés, l'automatisation
 
 #### Programmation et automatisation
 <p>
-  <img src="https://img.shields.io/badge/[-----]-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
+  <img src="https://img.shields.io/badge/Excel-Intermediate-3776AB?style=flat&logo=excel&logoColor=white" alt="Excel Skill Badge">
   <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
 </p>
 
